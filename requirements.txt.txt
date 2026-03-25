@@ -1,0 +1,4 @@
+agentscope
+ollama
+requests
+beautifulsoup4
